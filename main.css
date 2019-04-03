@@ -43,8 +43,8 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
     text-align: center;
 }
 
-ol, ul {
-    list-style: none;
+ul.menu, menu li{
+list-style: none;
 }
 
 img {
