@@ -26,6 +26,8 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
     padding: 20px;
     background-color: #f6f9f9;
     height: fit-content;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .logo {
